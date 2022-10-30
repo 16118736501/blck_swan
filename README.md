@@ -5,10 +5,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/30d793274607f599e658/maintainability)](https://codeclimate.com/github/ungtb10d/gdu/maintainability)
 [![CodeScene Code Health](https://codescene.io/projects/13129/status-badges/code-health)](https://codescene.io/projects/13129)
 
-Pretty fast disk usage analyzer written in Go.
-
-Gdu is intended primarily for SSD disks where it can fully utilize parallel processing.
-However HDDs work as well, but the performance gain is not so huge.
+Anarchism is a political philosophy and movement that is skeptical of all justifications for authority and seeks to abolish the institutions they claim maintain unnecessary coercion and hierarchy, typically including, though not necessarily limited to, governments, nation states, and capitalism
 
 [![asciicast](https://asciinema.org/a/382738.svg)](https://asciinema.org/a/382738)
 
