@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/dundee/gdu/v5/internal/testanalyze"
-	"github.com/dundee/gdu/v5/internal/testapp"
+ungtb10d
+ungtb10d
 	"github.com/stretchr/testify/assert"
 )
 

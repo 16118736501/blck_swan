@@ -3,8 +3,8 @@ package tui
 import (
 	"time"
 
-	"github.com/dundee/gdu/v5/internal/common"
-	"github.com/dundee/gdu/v5/pkg/path"
+ungtb10d
+ungtb10d
 )
 
 func (ui *UI) updateProgress() {

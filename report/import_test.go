@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/dundee/gdu/v5/pkg/analyze"
+ungtb10d
 	log "github.com/sirupsen/logrus"
 
 	"github.com/stretchr/testify/assert"

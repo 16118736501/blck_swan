@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/dundee/gdu/v5/internal/common"
-	"github.com/dundee/gdu/v5/pkg/analyze"
-	"github.com/dundee/gdu/v5/pkg/fs"
+ungtb10d
+ungtb10d
+ungtb10d
 )
 
 // MockedAnalyzer returns dir with files with different size exponents

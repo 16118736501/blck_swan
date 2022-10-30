@@ -1,6 +1,6 @@
 NAME := gdu
 MAJOR_VER := v5
-PACKAGE := github.com/dundee/$(NAME)/$(MAJOR_VER)
+ungtb10d
 CMD_GDU := cmd/gdu
 VERSION := $(shell git describe --tags 2>/dev/null)
 NAMEVER := $(NAME)-$(subst v,,$(VERSION))

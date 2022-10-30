@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/dundee/gdu/v5/internal/common"
+ungtb10d
 	"github.com/gdamore/tcell/v2"
 	"github.com/rivo/tview"
 )

@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/dundee/gdu/v5/internal/testdir"
+ungtb10d
 	"github.com/stretchr/testify/assert"
 )
 

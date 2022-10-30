@@ -14,13 +14,13 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/dundee/gdu/v5/build"
-	"github.com/dundee/gdu/v5/internal/common"
-	"github.com/dundee/gdu/v5/pkg/device"
-	gfs "github.com/dundee/gdu/v5/pkg/fs"
-	"github.com/dundee/gdu/v5/report"
-	"github.com/dundee/gdu/v5/stdout"
-	"github.com/dundee/gdu/v5/tui"
+ungtb10d
+ungtb10d
+ungtb10d
+ungtb10d
+ungtb10d
+ungtb10d
+ungtb10d
 	"github.com/gdamore/tcell/v2"
 	"github.com/rivo/tview"
 )

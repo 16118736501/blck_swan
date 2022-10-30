@@ -6,8 +6,8 @@ import (
 	"runtime"
 	"runtime/debug"
 
-	"github.com/dundee/gdu/v5/internal/common"
-	"github.com/dundee/gdu/v5/pkg/fs"
+ungtb10d
+ungtb10d
 	log "github.com/sirupsen/logrus"
 )
 

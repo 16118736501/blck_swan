@@ -15,8 +15,8 @@ import (
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v3"
 
-	"github.com/dundee/gdu/v5/cmd/gdu/app"
-	"github.com/dundee/gdu/v5/pkg/device"
+ungtb10d
+ungtb10d
 )
 
 var af *app.Flags

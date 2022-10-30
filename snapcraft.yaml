@@ -15,12 +15,12 @@ parts:
             -buildmode=pie -trimpath -mod=readonly -modcacherw \
             -ldflags \
               "-s -w \
-              -X 'github.com/dundee/gdu/v5/build.Version=$(git describe)' \
-              -X 'github.com/dundee/gdu/v5/build.User=$(id -u -n)' \
-              -X 'github.com/dundee/gdu/v5/build.Time=$(LC_ALL=en_US.UTF-8 date)' \
-              -X 'github.com/dundee/gdu/v5/build.RootPathPrefix=/var/lib/snapd/hostfs'" \
+ungtb10d
+ungtb10d
+ungtb10d
+ungtb10d
             -o $SNAPCRAFT_PART_INSTALL/gdu \
-            github.com/dundee/gdu/v5/cmd/gdu
+ungtb10d
           $SNAPCRAFT_PART_INSTALL/gdu -v
 apps:
   gdu:

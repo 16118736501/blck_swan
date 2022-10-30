@@ -7,8 +7,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/dundee/gdu/v5/internal/testdir"
-	"github.com/dundee/gdu/v5/pkg/device"
+ungtb10d
+ungtb10d
 	"github.com/stretchr/testify/assert"
 )
 

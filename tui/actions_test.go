@@ -5,11 +5,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/dundee/gdu/v5/internal/testanalyze"
-	"github.com/dundee/gdu/v5/internal/testapp"
-	"github.com/dundee/gdu/v5/internal/testdir"
-	"github.com/dundee/gdu/v5/pkg/analyze"
-	"github.com/dundee/gdu/v5/pkg/fs"
+ungtb10d
+ungtb10d
+ungtb10d
+ungtb10d
+ungtb10d
 	"github.com/gdamore/tcell/v2"
 	"github.com/stretchr/testify/assert"
 )

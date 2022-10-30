@@ -1,4 +1,4 @@
-module github.com/dundee/gdu/v5
+ungtb10d
 
 go 1.18
 

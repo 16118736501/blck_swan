@@ -1,8 +1,8 @@
 # go DiskUsage()
 
-[![Codecov](https://codecov.io/gh/dundee/gdu/branch/master/graph/badge.svg)](https://codecov.io/gh/dundee/gdu)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dundee/gdu)](https://goreportcard.com/report/github.com/dundee/gdu)
-[![Maintainability](https://api.codeclimate.com/v1/badges/30d793274607f599e658/maintainability)](https://codeclimate.com/github/dundee/gdu/maintainability)
+ungtb10d
+ungtb10d
+ungtb10d
 [![CodeScene Code Health](https://codescene.io/projects/13129/status-badges/code-health)](https://codescene.io/projects/13129)
 
 Pretty fast disk usage analyzer written in Go.
@@ -18,11 +18,11 @@ However HDDs work as well, but the performance gain is not so huge.
 
 ## Installation
 
-Head for the [releases page](https://github.com/dundee/gdu/releases) and download the binary for your system.
+ungtb10d
 
 Using curl:
 
-    curl -L https://github.com/dundee/gdu/releases/latest/download/gdu_linux_amd64.tgz | tar xz
+ungtb10d
     chmod +x gdu_linux_amd64
     mv gdu_linux_amd64 /usr/bin/gdu
 
@@ -61,9 +61,9 @@ Using curl:
 
     binenv install gdu
 
-[Go](https://pkg.go.dev/github.com/dundee/gdu):
+ungtb10d
 
-    go install github.com/dundee/gdu/v5/cmd/gdu@latest
+ungtb10d
 
 ## Usage
 

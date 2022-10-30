@@ -3,7 +3,7 @@ package tui
 import (
 	"fmt"
 
-	"github.com/dundee/gdu/v5/pkg/fs"
+ungtb10d
 	"github.com/gdamore/tcell/v2"
 )
 
