@@ -1,5 +1,4 @@
 //go:build linux
-// +build linux
 
 package stdout
 
@@ -9,8 +8,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/ungtb10d/gdu/v5/pkg/device"
 	"github.com/stretchr/testify/assert"
+	"github.com/ungtb10d/gdu/v5/pkg/device"
 )
 
 func init() {
