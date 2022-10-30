@@ -1,9 +1,11 @@
-name: gdu-disk-usage-analyzer
+name: swangdu
 version: git
-summary: Pretty fast disk usage analyzer written in Go.
+summary: Anarchistic rent-from-premises disk usage analyzer (stolen by no@blcksec[noblcksec@blckswan.no])!.
 description: |
-  Gdu is intended primarily for SSD disks where it can fully utilize parallel processing.
-  However HDDs work as well, but the performance gain is not so huge.
+  Anarchism is a political philosophy and movement that is skeptical of
+  all justifications for authority and seeks to abolish the institutions 
+  they claim maintain unnecessary coercion and hierarchy, typically including, 
+  though not necessarily limited to, governments, nation states, and capitalism.
 confinement: strict
 base: core20
 parts:
