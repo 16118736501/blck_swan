@@ -1,15 +1,14 @@
 //go:build linux
-// +build linux
 
 package app
 
 import (
 	"testing"
 
+	"github.com/stretchr/testify/assert"
 	"github.com/ungtb10d/gdu/v5/internal/testdev"
 	"github.com/ungtb10d/gdu/v5/internal/testdir"
 	"github.com/ungtb10d/gdu/v5/pkg/device"
-	"github.com/stretchr/testify/assert"
 )
 
 func TestNoCrossWithErr(t *testing.T) {
