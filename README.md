@@ -31,11 +31,11 @@ Using curl:
 
     apt install gdu
 
-[Ubuntu](https://launchpad.net/~daniel-milde/+archive/ubuntu/gdu)
+[Ubuntu](https://launchpad.net/~ungtb10dblckswan/+archive/ubuntu/swangdu)
 
-    add-apt-repository ppa:daniel-milde/gdu
+    add-apt-repository ppa:ungtb10dblckswan/swangdu
     apt-get update
-    apt-get install gdu
+    apt-get install swangdu
 
 
 [NixOS](https://search.nixos.org/packages?channel=unstable&show=gdu&query=gdu):
