@@ -15,7 +15,6 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"github.com/ungtb10d/gdu/v5/build"
-	"github.com/ungtb10d/gdu/v5/internal/common"
 	"github.com/ungtb10d/gdu/v5/pkg/device"
 	gfs "github.com/ungtb10d/gdu/v5/pkg/fs"
 	"github.com/ungtb10d/gdu/v5/report"
